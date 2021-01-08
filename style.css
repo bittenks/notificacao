@@ -38,3 +38,15 @@ button {
     padding: 2rem;
     margin: 1rem;
 }
+
+@media (max-width: 600px) {
+    .nome {
+     font-size: 1.5rem;
+     padding: 1rem 2rem;
+    }
+
+    .toast{
+        size: 50%;
+        background-size: 100%;
+    }
+}

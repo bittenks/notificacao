@@ -28,7 +28,7 @@ button {
 #container {
     position: fixed;
     bottom: 10px;
-    left: 10px;
+    left: 250px;
 }
 
 .toast {
@@ -37,6 +37,12 @@ button {
     color: #fff;
     padding: 2rem;
     margin: 1rem;
+}
+
+.toast1{
+    position:inherit;
+    bottom: 10px;
+    left: 20px;
 }
 
 @media (max-width: 600px) {
